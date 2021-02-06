@@ -44,6 +44,33 @@ def crimeMap():
 
     return render_template('crimeMap.html')
 
+@app.route('/resources')
+def resources():
+    # For the sake of example, use static information to inflate the template.
+    # This will be replaced with real information in later steps.
+
+    return render_template('resources.html')
+
+@app.route('/profile')
+def profile():
+    # For the sake of example, use static information to inflate the template.
+    # This will be replaced with real information in later steps.
+
+    return render_template('profile.html')
+
+@app.route('/tips')
+def tips():
+    # For the sake of example, use static information to inflate the template.
+    # This will be replaced with real information in later steps.
+
+    return render_template('tips.html')
+
+@app.route('/textHelpline')
+def textHelpline():
+    # For the sake of example, use static information to inflate the template.
+    # This will be replaced with real information in later steps.
+
+    return render_template('textHelpline.html')
 
 if __name__ == '__main__':
     # This is used when running locally only. When deploying to Google App
