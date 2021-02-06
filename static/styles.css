@@ -656,7 +656,7 @@
 
 /* Crime Map */
 
-#e26_4 { 
+#crime_1 { 
 	overflow:hidden;
 	background-color:rgba(255, 255, 255, 1);
 	opacity:1;
@@ -664,7 +664,7 @@
 	height:700px;
 	position:absolute;
 }
-#e36_73 { 
+#crime_2 { 
 	background-color:rgba(91.57683402299881, 55.76796591281891, 234.81250405311584, 1);
 	opacity:1;
 	width:1152px;
@@ -673,7 +673,7 @@
 	left:0px;
 	top:55px;
 }
-#e27_2 { 
+#crime_map { 
 	color:rgba(255, 255, 255, 1);
 	opacity:1;
 	width:550px;
@@ -687,7 +687,7 @@
 	letter-spacing:0;
 	line-height:undefined;
 }
-#e27_6 { 
+#crime_3 { 
 	background-color:rgba(102.73046672344208, 147.63834178447723, 234.81250405311584, 1);
 	opacity:1;
 	width:1152px;
@@ -696,7 +696,7 @@
 	left:0px;
 	top:0px;
 }
-#e27_7 { 
+#crime_4 { 
 	opacity:1;
 	width:102px;
 	height:33px;
@@ -704,7 +704,7 @@
 	left:754px;
 	top:11px;
 }
-#e27_8 { 
+#crime_5 { 
 	background-color:rgba(160.00000566244125, 184.00000423192978, 245.00000059604645, 1);
 	opacity:1;
 	width:102px;
@@ -717,7 +717,7 @@
 	border-bottom-left-radius:25px;
 	border-bottom-right-radius:25px;
 }
-#e27_9 { 
+#call_911 { 
 	color:rgba(0, 0, 0, 1);
 	opacity:1;
 	width:51px;
@@ -731,7 +731,7 @@
 	letter-spacing:0;
 	line-height:undefined;
 }
-#e27_10 { 
+#crime_6 { 
 	opacity:1;
 	width:102px;
 	height:33px;
@@ -739,7 +739,7 @@
 	left:878px;
 	top:11px;
 }
-#e27_11 { 
+#crime_7 { 
 	background-color:rgba(160.00000566244125, 184.00000423192978, 245.00000059604645, 1);
 	opacity:1;
 	width:102px;
@@ -752,7 +752,7 @@
 	border-bottom-left-radius:25px;
 	border-bottom-right-radius:25px;
 }
-#e27_12 { 
+#crime_8 { 
 	color:rgba(0, 0, 0, 1);
 	opacity:1;
 	width:100px;
@@ -766,7 +766,7 @@
 	letter-spacing:0;
 	line-height:undefined;
 }
-#e27_13 { 
+#crime_9 { 
 	opacity:1;
 	width:102px;
 	height:33px;
@@ -774,7 +774,7 @@
 	left:1002px;
 	top:11px;
 }
-#e27_14 { 
+#crime_10 { 
 	background-color:rgba(160.00000566244125, 184.00000423192978, 245.00000059604645, 1);
 	opacity:1;
 	width:102px;
@@ -787,7 +787,7 @@
 	border-bottom-left-radius:25px;
 	border-bottom-right-radius:25px;
 }
-#e27_15 { 
+#crime_11 { 
 	color:rgba(0, 0, 0, 1);
 	opacity:1;
 	width:77px;
@@ -801,7 +801,7 @@
 	letter-spacing:0;
 	line-height:undefined;
 }
-#e36_6 { 
+#crime_12 { 
 	opacity:1;
 	width:190px;
 	height:56px;
@@ -812,7 +812,7 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-#e27_16 { 
+#crime_13 { 
 	opacity:1;
 	width:102px;
 	height:33px;
@@ -820,7 +820,7 @@
 	left:506px;
 	top:11px;
 }
-#e27_17 { 
+#crime_14 { 
 	background-color:rgba(160.00000566244125, 184.00000423192978, 245.00000059604645, 1);
 	opacity:1;
 	width:102px;
@@ -833,7 +833,7 @@
 	border-bottom-left-radius:25px;
 	border-bottom-right-radius:25px;
 }
-#e27_18 { 
+#crime_15 { 
 	color:rgba(0, 0, 0, 1);
 	opacity:0.9100000262260437;
 	width:81px;
@@ -847,7 +847,7 @@
 	letter-spacing:0;
 	line-height:undefined;
 }
-#e36_7 { 
+#crime_16 { 
 	opacity:1;
 	width:102px;
 	height:33px;
@@ -855,7 +855,7 @@
 	left:630px;
 	top:11px;
 }
-#e36_8 { 
+#crime_17 { 
 	background-color:rgba(160.00000566244125, 184.00000423192978, 245.00000059604645, 1);
 	opacity:1;
 	width:102px;
@@ -868,7 +868,7 @@
 	border-bottom-left-radius:25px;
 	border-bottom-right-radius:25px;
 }
-#e36_9 { 
+#crime_18 { 
 	color:rgba(0, 0, 0, 1);
 	opacity:0.9100000262260437;
 	width:82px;
@@ -882,7 +882,7 @@
 	letter-spacing:0;
 	line-height:undefined;
 }
-#e36_78 { 
+#crime_19 { 
 	background-color:rgba(255, 255, 255, 1);
 	opacity:1;
 	width:1152px;
@@ -891,7 +891,7 @@
 	left:0px;
 	top:642px;
 }
-#e36_77 { 
+#crime_20 { 
 	color:rgba(0, 0, 0, 1);
 	opacity:1;
 	width:510px;
