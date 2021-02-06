@@ -13,4 +13,6 @@ Several pages to visit that are not linked yet:
 + https://fourth-elixir-304018.uc.r.appspot.com/crimemap
 + https://fourth-elixir-304018.uc.r.appspot.com/profile
 + https://fourth-elixir-304018.uc.r.appspot.com/tips
++ https://fourth-elixir-304018.uc.r.appspot.com/texthelpline
+
 
