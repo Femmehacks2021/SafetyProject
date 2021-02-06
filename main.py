@@ -26,14 +26,23 @@ def root():
     # For the sake of example, use static information to inflate the template.
     # This will be replaced with real information in later steps.
 
+    return render_template('index.html')
+
+@app.route('/emergencycall')
+def emgergencyCall():
+    # For the sake of example, use static information to inflate the template.
+    # This will be replaced with real information in later steps.
+
     call_number = "+1(650)449-4279"
 
-    dummy_times = [datetime.datetime(2018, 1, 1, 10, 0, 0),
-                   datetime.datetime(2018, 1, 2, 10, 30, 0),
-                   datetime.datetime(2018, 1, 3, 11, 0, 0),
-                   ]
+    return render_template('emergencyCall.html', call_number=call_number)
 
-    return render_template('index.html', call_number=call_number)
+@app.route('/crimemap')
+def crimeMap():
+    # For the sake of example, use static information to inflate the template.
+    # This will be replaced with real information in later steps.
+
+    return render_template('crimeMap.html')
 
 
 if __name__ == '__main__':
