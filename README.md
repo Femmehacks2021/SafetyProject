@@ -3,8 +3,8 @@
 A project constructed during #femmehacks 2021.
 
 The team:  
-+ Front end: Vix, Taylor
-+ Back end: Lencia, Maureen
++ UI/UX: Vix, Taylor
++ Backend: Lencia, Maureen
 
 Our project is online at: https://fourth-elixir-304018.uc.r.appspot.com/  
 Several pages to visit that are not linked yet:   
