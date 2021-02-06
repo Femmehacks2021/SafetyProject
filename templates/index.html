@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+  <title>Safety Project</title>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+  <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <h1>Call the plice (beta with our twilio phone)</h1>
+
+  <a href="tel:{{ call_number }}">{{ call_number }}</a>
+
+</body>
+</html>
